@@ -1,2 +1,2 @@
 # hello-world
-Primeira atividade do curso da Cubos Academy
+Atividade inicial Cubos Academy
